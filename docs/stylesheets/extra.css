@@ -1,0 +1,15 @@
+/* Change body text color */
+.md-content {
+  /* color: #333333; Dark gray text */
+}
+
+/* Change headings */
+.md-content h1, .md-content h2, .md-content h3,.md-content h4 {
+  color: #5488e8; /* Teal headings */
+}
+
+/* Change links */
+.md-content a {
+  /* color: #9d4edd; Purple links */
+}
+}
